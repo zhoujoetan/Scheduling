@@ -1,0 +1,11 @@
+A 8.1 
+B 15.3 
+C 6.6
+D 9.8 C
+E 12.4 B
+F 5.2 A
+G 3.1 F A B E
+H 11.1 B E D
+I 6 D C
+J 7.4 H I
+K 4.6 G A

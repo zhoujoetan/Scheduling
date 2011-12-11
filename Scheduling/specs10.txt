@@ -1,0 +1,17 @@
+A 3.1
+B 4.1
+C 5.9
+D 2.6 
+E 5.3 A B
+F 5.8 C D
+G 9.7 B F
+H 9.3 E
+I 8.4 G
+J 2.3 G R K
+K 6.2 F
+L 6.4 I H
+M 3.3 I J
+N 2.7 L M
+P 1.8 M Q
+Q 2.8 J
+R 3.5 F

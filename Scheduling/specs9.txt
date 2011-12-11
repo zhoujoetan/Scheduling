@@ -1,0 +1,8 @@
+ab 8 
+bc 9
+kp 3
+qn 10
+L 12 ab bc
+pr 7.5 kp
+gr 6 L
+hi 10.2 L
